@@ -1,0 +1,5 @@
+[
+	{"time": 0.6, "leds": [{"col": 0, "danger": 3}, {"col": 1, "danger": 2}, {"col": 2, "danger": 1}, {"col": 3, "danger": 2}, {"col": 4, "danger": 3}]},
+	{"time": 0.6, "leds": [{"col": 1, "danger": 3}, {"col": 2, "danger": 2}, {"col": 3, "danger": 1}, {"col": 4, "danger": 2}, {"col": 5, "danger": 3}]},
+	{"time": 0.6, "leds": [{"col": 2, "danger": 3}, {"col": 3, "danger": 2}, {"col": 4, "danger": 1}, {"col": 5, "danger": 2}, {"col": 6, "danger": 3}]}
+]
